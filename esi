@@ -4,3 +4,9 @@ vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@esi.khaaan.cc.cd:2083?security=tls&
 vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@esi.khaaan.cc.cd:2087?security=tls&type=ws&host=esi.khaaan.cc.cd&fp=chrome&sni=esi.khaaan.cc.cd&path=%2F&encryption=none#@mr_polar-2087
 vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@esi.khaaan.cc.cd:2096?security=tls&type=ws&host=esi.khaaan.cc.cd&fp=chrome&sni=esi.khaaan.cc.cd&path=%2F&encryption=none#@mr_polar-2096
 vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@esi.khaaan.cc.cd:8443?security=tls&type=ws&host=esi.khaaan.cc.cd&fp=chrome&sni=esi.khaaan.cc.cd&path=%2F&encryption=none#@mr_polar-8443
+vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@nova.melaanj.workers.dev:443?security=tls&type=ws&host=nova.melaanj.workers.dev&fp=chrome&sni=nova.melaanj.workers.dev&path=%2F&encryption=none#Nova%20Proxy-443
+vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@nova.melaanj.workers.dev:2053?security=tls&type=ws&host=nova.melaanj.workers.dev&fp=chrome&sni=nova.melaanj.workers.dev&path=%2F&encryption=none#Nova%20Proxy-2053
+vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@nova.melaanj.workers.dev:2083?security=tls&type=ws&host=nova.melaanj.workers.dev&fp=chrome&sni=nova.melaanj.workers.dev&path=%2F&encryption=none#Nova%20Proxy-2083
+vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@nova.melaanj.workers.dev:2087?security=tls&type=ws&host=nova.melaanj.workers.dev&fp=chrome&sni=nova.melaanj.workers.dev&path=%2F&encryption=none#Nova%20Proxy-2087
+vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@nova.melaanj.workers.dev:2096?security=tls&type=ws&host=nova.melaanj.workers.dev&fp=chrome&sni=nova.melaanj.workers.dev&path=%2F&encryption=none#Nova%20Proxy-2096
+vless://3617d2ef-0d4e-4c68-8c5c-9aab9eb62638@nova.melaanj.workers.dev:8443?security=tls&type=ws&host=nova.melaanj.workers.dev&fp=chrome&sni=nova.melaanj.workers.dev&path=%2F&encryption=none#Nova%20Proxy-8443
